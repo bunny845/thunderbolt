@@ -5,3 +5,4 @@ object Main extends LazyLogging {
     data.count();
     data.show();
   }
+}
